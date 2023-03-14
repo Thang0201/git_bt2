@@ -39,15 +39,6 @@ body {
           align-items: center;
   gap: 5rem;
 }
-.container .box-1 {
-  background-color: greenyellow;
-}
-.container .box-2 {
-  background-color: hotpink;
-}
-.container .box-3 {
-  background-color: khaki;
-}
 
 .box {
   width: 15rem;
